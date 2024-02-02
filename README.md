@@ -6,6 +6,8 @@
 
 ## How do I use this?
 
-Well, you might want to regenerate the nimble dependency list yourself! In which case, simply clone this repository, run `nim r gen_nimble.nim` and you're good to go!
+Add `requires "https://github.com/penguinite/everything.git"` to your .nimble file. (I still have yet to publish this package.
 
-Now run either `nimble test` or `nimble install` to download every package ever!
+And that's it! You now should have access to every package ever. Don't be surprised if your program fails to build (Since some packages are hopelessly broken, or they require a special version of the nim toolchain or they require external libraries in order to install.)
+
+The .nimble file is generated daily by GitHub Actions, but if you want to regenerate it yourself then run: `nim r gen_nimble.nim`
