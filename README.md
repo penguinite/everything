@@ -6,7 +6,7 @@
 
 ## How do I use this?
 
-Add `requires "https://github.com/penguinite/everything.git"` to your .nimble file. (I still have yet to publish this package.
+Add `requires "https://github.com/penguinite/everything.git"` to your .nimble file. (I still have yet to publish this package).
 
 And that's it! You now should have access to every package ever. Don't be surprised if your program fails to build (Since some packages are hopelessly broken, or they require a special version of the nim toolchain or they require external libraries in order to install.)
 
