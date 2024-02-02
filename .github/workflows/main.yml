@@ -1,0 +1,26 @@
+name: Update nimble file
+on:
+  pull_request:
+  push:
+  schedule:
+    - cron: '50 8 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: jiro4989/setup-nim-action@v1
+      with:
+        nim-version: 'stable'
+    - name: Update repo
+      run: git pull origin main
+    - name: Run a one-line script
+      run: nim r gen_nimble.nim
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: GitHub Actions
+        author_email: actions@github.com
+        message: 'Auto updating nimble dependencies'
+        add: 'everything.nimble'
