@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "mutf8"
 requires "dekao"
 requires "rssatom"
 requires "sudoku"
@@ -2345,4 +2346,5 @@ requires "getopty"
 requires "awsSigV4"
 requires "vier"
 requires "instagram"
+requires "dither"
 requires "traitor"
