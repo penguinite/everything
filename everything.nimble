@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "littlefs"
 requires "mutf8"
 requires "dekao"
 requires "rssatom"
@@ -2348,3 +2349,4 @@ requires "vier"
 requires "instagram"
 requires "dither"
 requires "traitor"
+requires "bttrwttrin"
