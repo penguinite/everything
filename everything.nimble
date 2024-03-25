@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "avrman"
 requires "nimcso"
 requires "vqsort"
 requires "nimplex"
@@ -2376,3 +2377,5 @@ requires "pnimrp"
 requires "expect"
 requires "css3selectors"
 requires "nimjl"
+requires "pmath"
+requires "sweet"
