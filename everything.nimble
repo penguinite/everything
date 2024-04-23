@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "well_parser"
 requires "avrman"
 requires "nimcso"
 requires "vqsort"
@@ -2392,3 +2393,5 @@ requires "simpleMail"
 requires "asyncssh2"
 requires "rex"
 requires "dim"
+requires "respite"
+requires "sudo"
