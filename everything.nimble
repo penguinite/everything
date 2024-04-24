@@ -10,6 +10,12 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "shellcmd"
+requires "asyncproc"
+requires "aloganimisc"
+requires "asyncio"
+requires "asyncsync"
+requires "csvdict"
 requires "well_parser"
 requires "avrman"
 requires "nimcso"
