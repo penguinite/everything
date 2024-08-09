@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "niqlite"
 requires "nimgo"
 requires "shellcmd"
 requires "asyncproc"
@@ -2438,3 +2439,4 @@ requires "holidapi"
 requires "brotli"
 requires "hannah"
 requires "batmon"
+requires "wayland_native"
