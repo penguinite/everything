@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "vexbox"
 requires "nivot"
 requires "tejina"
 requires "envmw"
@@ -2522,3 +2523,4 @@ requires "shakar"
 requires "bytesized"
 requires "nimlink"
 requires "viper"
+requires "nmgr"
