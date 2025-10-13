@@ -11,6 +11,7 @@ srcDir        = "src"
 # I finally managed to type out every single one :D
 # It took a lot of effort!
 requires "uleb128"
+requires "huewheel"
 requires "yaclap"
 requires "nim-compose"
 requires "vexhost"
