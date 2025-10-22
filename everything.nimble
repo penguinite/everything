@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nimyottadb"
 requires "uleb128"
 requires "huewheel"
 requires "yaclap"
