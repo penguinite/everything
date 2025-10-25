@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "owasp_encoder"
 requires "nimyottadb"
 requires "uleb128"
 requires "huewheel"
@@ -2605,3 +2606,4 @@ requires "url"
 requires "hashtree_abi"
 requires "Nim_for_AviUtl"
 requires "seaqt"
+requires "pkgit"
