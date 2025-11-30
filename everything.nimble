@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nimodbclite"
 requires "nimproto3"
 requires "owasp_encoder"
 requires "nimyottadb"
