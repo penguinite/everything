@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nim_debugger_mi"
 requires "nimodbclite"
 requires "nimproto3"
 requires "owasp_encoder"
@@ -2626,5 +2627,8 @@ requires "webtokens"
 requires "qpdf"
 requires "ghostscript"
 requires "mimedb"
+requires "stfrunner"
 requires "podofo"
 requires "kirpi"
+requires "xerces"
+requires "tide"
