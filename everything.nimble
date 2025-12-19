@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "hashbrowns"
 requires "subprocess"
 requires "nim_debugger_mi"
 requires "nimodbclite"
@@ -725,6 +726,7 @@ requires "fugitive"
 requires "dbg"
 requires "pylib"
 requires "NPython"
+requires "pyrepr"
 requires "graphemes"
 requires "rfc3339"
 requires "db_presto"
