@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "m"
 requires "treestand"
 requires "hashbrowns"
 requires "subprocess"
