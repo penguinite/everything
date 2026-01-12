@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "tabulator"
 requires "m"
 requires "treestand"
 requires "hashbrowns"
@@ -2649,3 +2650,4 @@ requires "nasp"
 requires "nimletter"
 requires "ndarray"
 requires "bcryptrocks"
+requires "sdfy"
