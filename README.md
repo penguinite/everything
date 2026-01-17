@@ -2,7 +2,7 @@
 
 *Every nimble package ever... Now In one convenient package!*
 
-`everything` is a nimble package that... well... depends on every nimble package out there!
+`everything` is a nimble package that... well... depends on every nimble package out there! Or at least, every nim package available in the package registry.
 
 ## How do I use this?
 
