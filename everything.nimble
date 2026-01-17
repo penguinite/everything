@@ -10,8 +10,12 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "commodore"
+requires "caesar"
+requires "morse"
 requires "tabulator"
 requires "m"
+requires "jobscheduler"
 requires "treestand"
 requires "hashbrowns"
 requires "subprocess"
