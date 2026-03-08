@@ -11,6 +11,7 @@ srcDir        = "src"
 # I finally managed to type out every single one :D
 # It took a lot of effort!
 requires "proven"
+requires "gpt4free"
 requires "commodore"
 requires "caesar"
 requires "morse"
@@ -2709,3 +2710,4 @@ requires "shorten"
 requires "nimphea"
 requires "scf"
 requires "payf"
+requires "nimtra"
