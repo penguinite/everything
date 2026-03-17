@@ -10,6 +10,8 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nimhuml"
+requires "json2schema"
 requires "proven"
 requires "gpt4free"
 requires "commodore"
@@ -2724,3 +2726,5 @@ requires "server_sent_events"
 requires "booyaka"
 requires "holo_json"
 requires "papr"
+requires "nimctx"
+requires "pluginkit"
