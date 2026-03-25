@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "uniq"
 requires "nimhuml"
 requires "json2schema"
 requires "proven"
@@ -2741,3 +2742,5 @@ requires "onnx_rt"
 requires "nextract"
 requires "hwylterm"
 requires "nim_tcc"
+requires "fpdf"
+requires "starlight"
