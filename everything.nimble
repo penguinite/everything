@@ -10,6 +10,8 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "mailclient"
+requires "humanize"
 requires "unislug"
 requires "dmarcmaster"
 requires "uniq"
