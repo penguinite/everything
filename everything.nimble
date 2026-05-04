@@ -10,6 +10,8 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nimrm"
+requires "winrm"
 requires "mailclient"
 requires "humanize"
 requires "unislug"
@@ -2783,3 +2785,4 @@ requires "streamhttp"
 requires "sarcophagus"
 requires "chroniclers"
 requires "Nimduvo"
+requires "libsql"
