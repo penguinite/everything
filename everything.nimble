@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "nimantic_versioning"
 requires "nifkit"
 requires "rochedb_nif"
 requires "koutendb_nif"
@@ -2884,3 +2885,4 @@ requires "smuggler"
 requires "ffi"
 requires "kiwiberry"
 requires "merenda"
+requires "opencode"
