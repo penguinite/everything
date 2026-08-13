@@ -11,6 +11,7 @@ srcDir        = "src"
 # I finally managed to type out every single one :D
 # It took a lot of effort!
 requires "nimantic_versioning"
+requires "nimver"
 requires "nifkit"
 requires "rochedb_nif"
 requires "koutendb_nif"
