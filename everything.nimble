@@ -10,6 +10,9 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "terminal_graph"
+requires "terminal_table"
+requires "terminal_style"
 requires "nimantic_versioning"
 requires "nimver"
 requires "nimprompt"
