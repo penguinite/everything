@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "canary"
 requires "terminal_layout"
 requires "terminal_graph"
 requires "terminal_table"
@@ -2921,3 +2922,4 @@ requires "nbrotli"
 requires "datpkgr"
 requires "unirate_api"
 requires "nlp"
+requires "promptmx"
