@@ -10,6 +10,8 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "terminal_prompt"
+requires "terminal_screen"
 requires "canary"
 requires "terminal_layout"
 requires "terminal_graph"
@@ -2923,3 +2925,4 @@ requires "datpkgr"
 requires "unirate_api"
 requires "nlp"
 requires "promptmx"
+requires "lwhttp"
