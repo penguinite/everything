@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "terminal_status"
 requires "terminal_prompt"
 requires "terminal_screen"
 requires "canary"
@@ -2928,3 +2929,4 @@ requires "promptmx"
 requires "lwhttp"
 requires "realdentalcosts"
 requires "fasttree"
+requires "duquack"
