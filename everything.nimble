@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "prx"
 requires "terminal_widgets"
 requires "terminal_status"
 requires "terminal_prompt"
@@ -2967,3 +2968,5 @@ requires "cursorsdk"
 requires "kavel"
 requires "finz"
 requires "skia"
+requires "polyline"
+requires "nimpy_numpy"
