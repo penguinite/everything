@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "chardet"
 requires "prx"
 requires "terminal_widgets"
 requires "terminal_status"
