@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "harfbuzzy"
 requires "chardet"
 requires "prx"
 requires "terminal_widgets"
@@ -2988,3 +2989,5 @@ requires "lutra_lsm6ds33"
 requires "lutra_lis3mdl"
 requires "lutra_espat"
 requires "carejobs"
+requires "llvnim23"
+requires "gravel"
