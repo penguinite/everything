@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "terminal_deck"
 requires "harfbuzzy"
 requires "chardet"
 requires "prx"
@@ -2993,3 +2994,4 @@ requires "seowebchecker"
 requires "llvnim23"
 requires "llvnim"
 requires "gravel"
+requires "dotenvrun"
