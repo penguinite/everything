@@ -10,6 +10,7 @@ srcDir        = "src"
 # Dependencies
 # I finally managed to type out every single one :D
 # It took a lot of effort!
+requires "praxo_core"
 requires "terminal_deck"
 requires "harfbuzzy"
 requires "chardet"
@@ -3000,3 +3001,4 @@ requires "lz4"
 requires "javascriptcore"
 requires "image"
 requires "carne"
+requires "nanuq"
