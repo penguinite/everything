@@ -11,6 +11,8 @@ srcDir        = "src"
 # I finally managed to type out every single one :D
 # It took a lot of effort!
 requires "cidr"
+requires "retroui"
+requires "ned"
 requires "logfmt"
 requires "praxo_core"
 requires "terminal_deck"
@@ -3008,3 +3010,4 @@ requires "nimgrpc"
 requires "uirelays"
 requires "iconbundler"
 requires "mq_bridge"
+requires "harfnim"
